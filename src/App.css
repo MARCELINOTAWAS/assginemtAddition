@@ -1,0 +1,21 @@
+.topnav {
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+}
+
+.topnav a:hover {
+  border-bottom: 3px solid #a3a3fd;
+}
+
+.topnav a.active {
+  border-bottom: 3px solid #a3a3fd;
+}
